@@ -28,6 +28,13 @@
 * `cargo install cargo-all-features`
 * `cargo install cargo-machete`
 
+* 
+* `brew install jq`
+* `cargo install cargo-rdme`
+* `cargo install taplo-cli`
+* `cargo install cargo-all-features`
+* `cargo install cargo-machete`
+
 # Installation for Linux
 
 ## Basics
